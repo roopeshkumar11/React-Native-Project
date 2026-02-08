@@ -129,24 +129,22 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 
 ## 📂 Project Structure
 
-Calculator-App/
-│
-├── android/
-├── ios/
-├── App.js
-├── package.json
-└── README.md
----
-
-
+-  Calculator-App/
+-  │
+-  ├── android/
+-  ├── ios/
+-  ├── App.js
+-  ├── package.json
+-  └── README.md
 
 ---
+
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/your-username/calculator-app.git
+```sh
+-git clone https://github.com/your-username/calculator-app.git
 
 Go to folder
 cd calculatorapp
