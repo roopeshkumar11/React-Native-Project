@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<!-- This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -94,4 +94,75 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native. -->
+
+
+# 📱 React Native Calculator App
+
+A simple and responsive Calculator App built using React Native.  
+This app performs basic arithmetic operations like addition, subtraction, multiplication, and division with a clean UI.
+
+---
+
+## 🚀 Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔢 Number input system
+- 🧮 Clear button (AC)
+- 📱 Responsive mobile UI
+- ⚡ Fast calculations using React Hooks
+
+---
+
+## 🛠️ Tech Stack
+
+- React Native
+- JavaScript
+- React Hooks (useState)
+- StyleSheet (CSS)
+- Android Studio / Emulator
+
+---
+
+## 📂 Project Structure
+
+Calculator-App/
+│
+├── android/
+├── ios/
+├── App.js
+├── package.json
+└── README.md
+---
+
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/your-username/calculator-app.git
+
+Go to folder
+cd calculatorapp
+npm install
+
+Start Metro
+npx react-native start
+Run App (Android)
+npx react-native run-android
+
+
+Author
+
+Roopesh Kumar
+BTech AI & ML | MERN Stack Developer
+
+GitHub: https://github.com/roopeshkumar11
+
+```
