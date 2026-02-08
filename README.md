@@ -143,24 +143,30 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
-```sh
--git clone https://github.com/your-username/calculator-app.git
 
-Go to folder
-cd calculatorapp
-npm install
+- git clone https://github.com/your-username/calculator-app.git
 
-Start Metro
-npx react-native start
-Run App (Android)
-npx react-native run-android
+ ##  Go to folder
+- cd calculatorapp
+- npm install
+
+##  Start Metro
+- npx react-native start
+- Run App (Android)
+- npx react-native run-android
 
 
-Author
+ ##  Author
 
-Roopesh Kumar
-BTech AI & ML | MERN Stack Developer
+- Roopesh Kumar
+- BTech AI & ML | MERN Stack Developer
 
-GitHub: https://github.com/roopeshkumar11
+- GitHub: https://github.com/roopeshkumar11
 
-```
+
+## 📱 App Preview
+
+<p float="left">
+  <img src="assets/calculator-screenshot1.png" width="200" />
+  <img src="assets/calculator-screenshot2.png" width="200" />
+</p>
