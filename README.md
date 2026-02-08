@@ -164,9 +164,11 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 - GitHub: https://github.com/roopeshkumar11
 
 
+
 ## 📱 App Preview
 
-<p float="left">
-  <img src="assets/calculator-screenshot2.png" width="200" />
-  <img src="assets/calculator-screenshot1.png" width="200" />
+<p>
+  <img src="assets/calculator-screenshot1.png" height="300" width="200" style="margin-right:20px;" />
+  <img src="assets/calculator-screenshot2.png" height="300" width="200" />
 </p>
+
