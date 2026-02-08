@@ -167,6 +167,6 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 ## 📱 App Preview
 
 <p float="left">
-  <img src="assets/calculator-screenshot1.png" width="200" />
   <img src="assets/calculator-screenshot2.png" width="200" />
+  <img src="assets/calculator-screenshot1.png" width="200" />
 </p>
