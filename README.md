@@ -130,7 +130,7 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 ## 📂 Project Structure
 
 -  Calculator-App/
--  │
+   │
 -  ├── android/
 -  ├── ios/
 -  ├── App.js
